@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 odoo:18.0-20250520
+--platform=linux/amd64 odoo:18.0-20250520
