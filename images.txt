@@ -1,2 +1,2 @@
 #支持指定架构
-postgres:17
+rabbitmq:3.12-management
